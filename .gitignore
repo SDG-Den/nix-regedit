@@ -2,6 +2,9 @@
 result
 result-*
 
+# Ignore rust build output
+/target
+
 # Ignore automatically generated direnv output
 .direnv
 

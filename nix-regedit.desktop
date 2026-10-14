@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=nix-regedit
+Comment=Registry-editor style GUI for Nix flakes
+Exec=nix-regedit
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Development;Utility;
+StartupNotify=true
